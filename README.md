@@ -1,2 +1,2 @@
 # DSEC
-Two stream YOLO with incident images for object detection
+Two stream YOLO with event cameras for object detection
